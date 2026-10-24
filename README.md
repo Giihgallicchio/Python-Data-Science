@@ -36,22 +36,23 @@ O projeto cobre toda a esteira inicial de um analista de dados: desde a consolid
 Os notebooks estão divididos em categorias para melhor organização do portfólio:
 
 ```text
-├── 📂 Core_Data_Science/               # Pipelines principais de análise e visualização
-│   ├── Carregando_Dados.ipynb         # Técnicas de leitura e ingestão estruturada de dados
-│   ├── DataPrep_Duplicados.ipynb      # Higienização de bases e eliminação de redundâncias
-│   ├── Criando_Gráficos.ipynb         # Construção de visualizações e gráficos estatísticos
-│   └── Análise_Preditiva.ipynb        # Introdução a conceitos lógicos de análise preditiva
+├── 📂 Core_Data_Science/                 # Pipelines principais de análise e visualização
+│   ├── Carregando_Dados.ipynb            # Técnicas de leitura e ingestão estruturada de dados
+│   ├── DataPrep_Duplicados.ipynb         # Higienização de bases e eliminação de redundâncias
+│   ├── Criando_Gráficos.ipynb            # Construção de visualizações e gráficos estatísticos
+│   └── Análise_Preditiva.ipynb           # Introdução a conceitos lógicos de análise preditiva
 │
-├── 📂 Python_Fundamentals/            # Estruturas fundamentais de lógica e sintaxe
-│   ├── Estrutura_condicional_IF.ipynb # Controle de fluxo baseado em tomadas de decisão
-│   ├── Operadores_Aritméticos_03.ipynb# Cálculos matemáticos e expressões lógicas
-│   ├── f_string.ipynb                 # Técnicas modernas de interpolação e formatação de texto
-│   ├── Sets.ipynb                     # Armazenamento e operações de álgebra de conjuntos
-│   └── Tuplas.ipynb                   # Manipulação de sequências de dados estáticas
+├── 📂 Python_Fundamentals/               # Estruturas fundamentais de lógica e sintaxe
+│   ├── Estrutura_condicional_IF.ipynb    # Controle de fluxo baseado em tomadas de decisão
+│   ├── Operadores_Aritméticos_03.ipynb   # Cálculos matemáticos e expressões lógicas
+│   ├── f_string.ipynb                    # Técnicas modernas de interpolação e formatação de texto
+│   ├── Sets.ipynb                        # Armazenamento e operações de álgebra de conjuntos
+│   └── Tuplas.ipynb                      # Manipulação de sequências de dados estáticas
 │
-└── 📂 Challenges/                      # Exercícios práticos de consolidação
-    ├── 1Mão_na_massa.ipynb            # Desafios práticos de fixação — Nível 1
-    └── 2Mão_na_Massa.ipynb            # Desafios práticos de fixação — Nível 2
+└── 📂 Challenges/                        # Exercícios práticos de consolidação
+    ├── 1Mão_na_massa.ipynb               # Desafios práticos de fixação — Nível 1
+    └── 2Mão_na_Massa.ipynb               # Desafios práticos de fixação — Nível 2
+
 ```
 
 ---
